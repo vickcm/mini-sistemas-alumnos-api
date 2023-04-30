@@ -5,7 +5,7 @@ Desarrollo Web **Da Vinci**
 
 # Actividad API
 
--   [ ] Utilizando el mismo sistema de la Actividad - Mini Sistema realizar las siguientes modificaciones.
+ Utilizando el mismo sistema de la Actividad - Mini Sistema realizar las siguientes modificaciones.
 -   [x] Crear un API que tenga las siguientes consideraciones:
     -   [x] La entidad se debe llamar students y el identificador de cada estudiante es el legajo.
     -   [x] Realizar las rutas correspondientes a las siguientes funcionalidades:
